@@ -4,17 +4,42 @@
 
 ## Hi there 👋
 
-<!--
-**AdY21850/AdY21850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi — I'm Aditya 👋
+- 🔭 Building Android apps & backend services
+- 💬 Ask me about Java, Spring Boot, Firebase
+- ⚡ 2025 goal: contribute to open source
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+
+![screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/screenshot.png)
+
+
+
+
+# Hi, I'm YOUR_NAME 👋
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20I'm%20YOUR_NAME!&fontSize=30)
+
+## 💡 About Me
+- 🔭 I build Android & Java backend apps
+- 🌱 Learning: Spring Boot, Docker, CI/CD
+- 📫 Reach me at: your.email@example.com
+
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## 🚀 Featured Projects
+- [YOUR_PROJECT](https://github.com/YOUR_USERNAME/YOUR_PROJECT) — 1-line summary
+- [ANOTHER_PROJECT](https://github.com/YOUR_USERNAME/ANOTHER_PROJECT) — 1-line summary
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
