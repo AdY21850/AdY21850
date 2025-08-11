@@ -33,7 +33,8 @@
 - OTP-based login with **MongoDB backend**
 - **Google Maps API** for real-time location tracking
 - Payment integration via **Razorpay**
-- [📥 Download APK](https://github.com/AdY21850/Bike_Rental/raw/refs/heads/main/app-debug.apk)
+- [📥 Download APK]([📥 Download APK](https://raw.githubusercontent.com/AdY21850/Bike_Rental/main/app-debug.apk)
+)
 
 ---
 
