@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Aditya!%20👋&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Android%20Apps%20%7C%20Backend%20Developer&descAlignY=60)
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=200&section=header&text=Hi%20I'm%20Aditya!%20👋&fontSize=40)
+![banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.png)
 ## Hi there 👋
 
 <!--
