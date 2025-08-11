@@ -42,7 +42,7 @@
 ![CU Meal](https://img.shields.io/badge/Download%20APK-FFCA28?style=for-the-badge&logo=android&logoColor=black)
 - **Firebase Realtime Database** for instant updates
 - Lottie animations for a smooth UI
-- [📥 Download APK]([https://github.com/AdY21850/CUMealAndroidClone/raw/refs/heads/main/app-debug.apk](https://github.com/AdY21850/Android-Development/raw/refs/heads/main/CU_Meal_Copy/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk)
+- [📥 Download APK]([https://github.com/AdY21850/CUMealAndroidClone/raw/refs/heads/main/app-debug.apk](https://github.com/AdY21850/Android-Development/raw/refs/heads/main/CU_Meal_Copy/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk))
 
 ---
 
